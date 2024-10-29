@@ -1,1 +1,1 @@
-transactional performance measurement
+Explyt Spring plugin samples
